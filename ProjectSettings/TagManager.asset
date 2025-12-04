@@ -6,6 +6,7 @@ TagManager:
   tags:
   - UI
   - Joystick
+  - Ground
   layers:
   - Default
   - TransparentFX
